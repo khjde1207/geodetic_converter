@@ -1,8 +1,8 @@
 name: geodetic_converter
-description: A new Flutter package project.
+description: WGS84 <-> TM
 version: 0.0.1
-author:
-homepage:
+author: Eugene Jeon <eugenejeon.me@gmail.com>
+homepage: https://github.com/eugenejeonme/geodetic_converter
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
